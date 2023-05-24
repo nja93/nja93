@@ -7,8 +7,8 @@ Programmer.Researcher
 Student of alx sofware engineering program. Started coding in January of 2023 and have been coding everyday since
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🧠  I'm learning C, Python
-* 🤝  I'm open to collaborating on C,and R
+* 🧠  I'm learning Python
+* 🤝  I'm open to collaborating on C and R
 
 ### Skills
 
