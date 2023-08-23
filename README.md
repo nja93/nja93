@@ -4,7 +4,7 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 Programmer.Researcher
 ---------------------
 
-Student of alx sofware engineering program. Started coding in January of 2023 and have been coding everyday since
+Student of alx sofware engineering program. Started coding in January of 2023 and have been coding every day since
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🧠  I'm learning Python
