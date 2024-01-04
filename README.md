@@ -1,7 +1,7 @@
 Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my Github
 ==============================================================================================================================
 
-Researcher, Geologist
+Researcher
 ---------------------
 
 Student of alx sofware engineering program. Started coding in January of 2023 and have been coding every day since. Looking to learn scientific computing and ML
